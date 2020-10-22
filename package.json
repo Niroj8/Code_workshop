@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Niroj8/Code_workshop/issues"
   },
-  "homepage": "https://github.com/Niroj8/Code_workshop#readme"
+  "homepage": "https://github.com/Niroj8/Code_workshop#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
