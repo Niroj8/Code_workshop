@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This is the collection of node Workshop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niroj8/Code_workshop.git"
+  },
+  "author": "Niroj Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niroj8/Code_workshop/issues"
+  },
+  "homepage": "https://github.com/Niroj8/Code_workshop#readme"
+}
